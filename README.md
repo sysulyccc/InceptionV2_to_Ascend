@@ -1,2 +1,2 @@
 # InceptionV2_to_Ascend
-The migration of inception V2 from GPU to NPU is realized.
+The repository will realize the migration of InceptionV2 from GPU to NPU
